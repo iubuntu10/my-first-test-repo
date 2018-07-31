@@ -1,0 +1,19 @@
+{
+  "name": "my-first-test-repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iubuntu10/my-first-test-repo.git"
+  },
+  "author": "garyg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iubuntu10/my-first-test-repo/issues"
+  },
+  "homepage": "https://github.com/iubuntu10/my-first-test-repo#readme"
+}
